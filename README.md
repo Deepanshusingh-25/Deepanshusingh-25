@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepanshusingh-25
-- 👀 I’m interested in web development
+- 👀 I’m interested in software and web development
 - 🌱 I’m currently learning Java ,javascript,HTML,CSS,SQL,AWS
 - 📫 How to reach me ... mail me :- singhdeepanshu685@gmail.com
 
